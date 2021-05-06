@@ -23,6 +23,20 @@ tab키를 이용해 들여쓰기를 해서 작성하면 자동으로 소스코�
  ```
   여기부턴 일반 텍스트
 
+<!-- 코드 들여쓰기 계층 만들기 -->
+> 와 띄어쓰기를 이용해 계층을 하나 설정할 수 있습니다. 한 개짜리 계층
+> > 두 개 짜리 계층
+> > >세 개 짜리 계층
+> > >
+
+<!-- 숫자 목록 -->
+1. 일번
+2. 이번
+3. 삼번
+4.사번
+5.오번
+6.육번
+
 <!--
 **chan000/chan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
