@@ -11,6 +11,17 @@
 <h2>h2태그로 감싼 효과가 납니다.</h2>
 
 즉 h6까지 있으므로, #도 6개까지 쓸 수 있습니다.
+
+
+<!-- 소스코드 게시 1 -->
+소스코드는 그냥 작성하지 않고
+
+``` ``` 사이에 작성하면 됩니다.(키보드 1 왼쪽의 물결표시 내지는 홑점)
+tab키를 이용해 들여쓰기를 해서 작성하면 자동으로 소스코드로 인식됩니다.
+
+  System.out.println("Hello Github");
+  여기부턴 일반 텍스트
+
 <!--
 **chan000/chan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
